@@ -2,19 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
 The Flutter project is a recipe app that offers users a wide range of cuisines to choose from. With this app, users can explore different recipes and learn how to cook their favorite dishes from all around the world.
 
 The app features a user-friendly interface that allows users to browse recipes, filter by ingredients, and even save their favorite recipes for easy access. Users can easily search for recipes by cuisine, meal type, or ingredients, making it easy to find the perfect recipe for any occasion.
